@@ -3,12 +3,25 @@
     <title>MonsterTry-Blog</title>
     <link href="https://monstertry.github.io/feed.xml" rel="self" />
     <link href="https://monstertry.github.io" />
-    <updated>2023-12-27T16:04:22+08:00</updated>
+    <updated>2023-12-27T18:41:17+08:00</updated>
     <author>
         <name>MonsterTry</name>
     </author>
     <id>https://monstertry.github.io</id>
 
+    <entry>
+        <title>ConfigureAwait</title>
+        <author>
+            <name>MonsterTry</name>
+        </author>
+        <link href="https://monstertry.github.io/configureawait.html"/>
+        <id>https://monstertry.github.io/configureawait.html</id>
+            <category term=".NET"/>
+
+        <updated>2023-12-27T18:41:17+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>New Blog</title>
         <author>
@@ -17,7 +30,7 @@
         <link href="https://monstertry.github.io/new-blog.html"/>
         <id>https://monstertry.github.io/new-blog.html</id>
 
-        <updated>2023-12-27T16:04:22+08:00</updated>
+        <updated>2023-12-27T18:40:34+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
