@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://monstertry.github.io/shan-cun-zhong-de-dian-zi.html",
+            "url": "https://monstertry.github.io/shan-cun-zhong-de-dian-zi.html",
+            "title": "闪存中的电子",
+            "summary": "假设有两个1TB的内存卡，那么每张内存卡有：\\(1\\times1000\\times1000\\times1000\\times1000\\times8\\)bit也就是\\(8\\times10^{12}\\)bit也就是说至少需要\\(8\\times10^{12}\\)个电子。&hellip;",
+            "content_html": "<div>\n<div>假设有两个1TB的内存卡，那么每张内存卡有：\\(1\\times1000\\times1000\\times1000\\times1000\\times8\\)bit也就是\\(8\\times10^{12}\\)bit也就是说至少需要\\(8\\times10^{12}\\)个电子。</div>\n<br>\n<div>已知\\(1C=6.24\\times10^{18}e\\)，那么这些电子的电荷量为\\(8\\times10^{12}e= \\displaystyle\\frac{8\\times10^{12}}{6.24\\times10^{18}}C=1.28\\times10^{-6}C\\)。</div>\n<br>\n<div>那么两张内存卡互相受到的库仑力为：</div>\n<br>\n<div>$$F=k \\displaystyle\\frac{q_{1}q_{2}}{r^{2}}\\\\\\quad=9\\times10^{9} \\displaystyle\\frac{(1.28\\times10^{-6})^{2}}{r^{2}}N\\cdot m^{2}\\\\\\quad= \\displaystyle\\frac{11.52\\times10^{-3}}{r^{2}}N\\cdot m^{2}\\\\\\quad\\approx \\displaystyle\\frac{10^{2}}{r^{2}}N\\cdot m^{2}$$</div>\n<br>\n<div>假设两张内存卡距离为0.01m,则：</div>\n<br>\n<div>$$F= \\displaystyle\\frac{10^{-2}}{0.01^{2}}N=100N$$</div>\n<br>\n<div>所以这是不可能的。</div>\n</div>",
+            "author": {
+                "name": "MonsterTry"
+            },
+            "tags": [
+                   "Other"
+            ],
+            "date_published": "2023-12-28T15:54:35+08:00",
+            "date_modified": "2023-12-28T19:02:25+08:00"
+        },
+        {
             "id": "https://monstertry.github.io/configureawait.html",
             "url": "https://monstertry.github.io/configureawait.html",
             "title": "ConfigureAwait",
