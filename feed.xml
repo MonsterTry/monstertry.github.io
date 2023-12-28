@@ -3,7 +3,7 @@
     <title>MonsterTry-Blog</title>
     <link href="https://monstertry.github.io/feed.xml" rel="self" />
     <link href="https://monstertry.github.io" />
-    <updated>2023-12-27T18:41:17+08:00</updated>
+    <updated>2023-12-28T13:20:54+08:00</updated>
     <author>
         <name>MonsterTry</name>
     </author>
@@ -30,8 +30,16 @@
         <link href="https://monstertry.github.io/new-blog.html"/>
         <id>https://monstertry.github.io/new-blog.html</id>
 
-        <updated>2023-12-27T18:40:34+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-12-28T13:20:54+08:00</updated>
+            <summary>
+                <![CDATA[
+                    TEST
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="align-center">TEST</h1>
+            ]]>
+        </content>
     </entry>
 </feed>
